@@ -27,4 +27,4 @@ production:
   database: education
   username: deploy
   pool: 30
-  password: e151c5b1643685e5d643106df8e8b8545066102318e356d306059dfef752ffb570d01ef232b4ed1ca3e076dffbecad43e2c3739e7b67e4bec19d2595da92af83
+  password: adminadminskybox
